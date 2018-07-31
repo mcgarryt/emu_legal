@@ -61,7 +61,7 @@ PPSSPP has a [quick-and-easy installer](http://ppsspp.org/downloads.html) that y
 
 ----
 
-## ROMs
+##ROMs
 
 There are a variety of places to download ROMs at, but the most reliable right now are [EmuParadise](https://www.emuparadise.me) and [EmulatorZone](http://www.emulator-zone.com), though your mileage may vary on these sites.
 
